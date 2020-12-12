@@ -14,6 +14,8 @@
     <description>存放JavaBean和Feign</description>
     <modules>
         <module>dailian-service-gameInfo-api</module>
+        <module>dailian-service-user-api</module>
+        <module>dailian-service-order-api</module>
     </modules>
 
     <dependencies>

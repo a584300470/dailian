@@ -15,6 +15,8 @@
     <description>所有微服务的工程</description>
     <modules>
         <module>dailian-service-gameinfo</module>
+        <module>dailian-service-order</module>
+        <module>dailian-service-user</module>
     </modules>
 
 
@@ -30,6 +32,24 @@
         <dependency>
             <groupId>com.DaiLian</groupId>
             <artifactId>dailian-service-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.DaiLian</groupId>
+            <artifactId>dailian-service-gameInfo-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.DaiLian</groupId>
+            <artifactId>dailian-service-order-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.DaiLian</groupId>
+            <artifactId>dailian-service-user-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

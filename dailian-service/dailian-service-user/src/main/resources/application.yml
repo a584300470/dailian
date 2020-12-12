@@ -1,0 +1,19 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: GameUser
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/dailian_user?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+      username: root
+      password: 123321
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka
+  instance:
+    prefer-ip-address: true # 根据ip把服务注册到Eureka,如果不设置则是把机器名注册到Eureka
+feign:
+  hystrix:
+    enabled: true

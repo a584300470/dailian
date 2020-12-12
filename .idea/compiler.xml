@@ -12,6 +12,10 @@
         <module name="dailian-gameInfo" />
         <module name="dailian-service-gameinfo" />
         <module name="dailian-service-gameInfo-api" />
+        <module name="dailian-service-order" />
+        <module name="dailian-service-order-api" />
+        <module name="dailian-service-user" />
+        <module name="dailian-service-user-api" />
         <module name="dailian-web" />
       </profile>
     </annotationProcessing>
@@ -27,6 +31,10 @@
       <module name="dailian-service-gameInfo" target="1.8" />
       <module name="dailian-service-gameinfo-api" target="1.8" />
       <module name="dailian-service-gameInfo-api" target="1.8" />
+      <module name="dailian-service-order" target="1.8" />
+      <module name="dailian-service-order-api" target="1.8" />
+      <module name="dailian-service-user" target="1.8" />
+      <module name="dailian-service-user-api" target="1.8" />
       <module name="dailian-web" target="1.8" />
       <module name="MapleStoryTW-DaiLian-parent" target="1.8" />
     </bytecodeTargetLevel>

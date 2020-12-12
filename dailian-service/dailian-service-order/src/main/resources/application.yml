@@ -1,11 +1,11 @@
 server:
-  port: 8081
+  port: 8082
 spring:
   application:
-    name: gameInfo
+    name: Game_Order
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/dailian_gameinfo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    url: jdbc:mysql://127.0.0.1:3306/dailian_order?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: 123321
 eureka:

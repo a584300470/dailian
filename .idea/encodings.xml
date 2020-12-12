@@ -8,11 +8,12 @@
     <file url="file://$PROJECT_DIR$/dailian-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dailian-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dailian-service-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dailian-service-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dailian-service-api/dailian-service-gameInfo-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dailian-service-api/dailian-service-gameinfo-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dailian-service/dailian-service-gameInfo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dailian-service-api/dailian-service-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dailian-service-api/dailian-service-user-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dailian-service/dailian-service-gameinfo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dailian-service/dailian-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dailian-service/dailian-service-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dailian-web" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

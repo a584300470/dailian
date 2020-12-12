@@ -11,6 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-gameInfo-api/dailian-service-gameInfo-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-gameInfo-api/dailian-service-gameInfo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dailian-service/dailian-service-gameinfo/dailian-service-gameinfo.iml" filepath="$PROJECT_DIR$/dailian-service/dailian-service-gameinfo/dailian-service-gameinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service/dailian-service-order/dailian-service-order.iml" filepath="$PROJECT_DIR$/dailian-service/dailian-service-order/dailian-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-order-api/dailian-service-order-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-order-api/dailian-service-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service/dailian-service-user/dailian-service-user.iml" filepath="$PROJECT_DIR$/dailian-service/dailian-service-user/dailian-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-user-api/dailian-service-user-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-user-api/dailian-service-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dailian-web/dailian-web.iml" filepath="$PROJECT_DIR$/dailian-web/dailian-web.iml" />
     </modules>
   </component>
