@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapleStoryTW-DaiLian-parent.iml" filepath="$PROJECT_DIR$/MapleStoryTW-DaiLian-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-common/dailian-common.iml" filepath="$PROJECT_DIR$/dailian-common/dailian-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-common-db/dailian-common-db.iml" filepath="$PROJECT_DIR$/dailian-common-db/dailian-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-eureka/dailian-eureka.iml" filepath="$PROJECT_DIR$/dailian-eureka/dailian-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-gateway/dailian-gateway.iml" filepath="$PROJECT_DIR$/dailian-gateway/dailian-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service/dailian-service.iml" filepath="$PROJECT_DIR$/dailian-service/dailian-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service-api/dailian-service-gameInfo-api/dailian-service-gameInfo-api.iml" filepath="$PROJECT_DIR$/dailian-service-api/dailian-service-gameInfo-api/dailian-service-gameInfo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-service/dailian-service-gameinfo/dailian-service-gameinfo.iml" filepath="$PROJECT_DIR$/dailian-service/dailian-service-gameinfo/dailian-service-gameinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailian-web/dailian-web.iml" filepath="$PROJECT_DIR$/dailian-web/dailian-web.iml" />
+    </modules>
+  </component>
+</project>
